@@ -13,20 +13,7 @@ class TreeNode:
         self.right = None
 
 class Solution:
-    def preorderTraversal(self, root: TreeNode) -> list:        
-#        current = root
-#        stack = []
-#        ans = []
-#        while current or stack:
-#            if current:
-#                stack.append(current) #存入栈
-#                ans.append(current.val)
-#                current = current.left #向左移
-#            else:
-#                current = stack.pop() #弹出栈
-#                current = current.right #向右移
-#        return ans
-    
+    def preorderTraversal(self, root: TreeNode) -> list:
         current = root
         stack = []
         ans = []
