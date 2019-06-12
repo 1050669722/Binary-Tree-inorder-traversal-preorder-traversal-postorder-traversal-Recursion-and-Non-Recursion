@@ -5,6 +5,10 @@ Created on Fri Jun  7 14:33:08 2019
 @author: Administrator
 """
 
+'''
+
+'''
+
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, x):
