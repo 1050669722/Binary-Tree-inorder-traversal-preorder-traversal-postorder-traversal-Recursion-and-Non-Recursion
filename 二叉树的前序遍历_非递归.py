@@ -5,6 +5,10 @@ Created on Fri Jun  7 15:04:56 2019
 @author: Administrator
 """
 
+'''
+Binary Tree | Preorder Traversal | Non-Recursion
+'''
+
 # Definition for a binary tree node.
 class TreeNode:
     def __init__(self, x):
