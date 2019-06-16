@@ -21,7 +21,7 @@ class Solution:
         current = root
         stack = []
         last_visit = root
-        ans =[]
+        ans = []
         while current or stack:
             while current:
                 stack.append(current)
