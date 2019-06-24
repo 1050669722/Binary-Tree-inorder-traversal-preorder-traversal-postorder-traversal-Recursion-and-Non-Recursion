@@ -30,23 +30,3 @@ class Solution:
                 current = stack.pop()
                 current = current.right
         return ans
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
