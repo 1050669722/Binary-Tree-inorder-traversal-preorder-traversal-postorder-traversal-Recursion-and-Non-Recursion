@@ -44,22 +44,7 @@ class Solution:
                 current = current.right
         return ans
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    
+    
     
