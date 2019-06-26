@@ -25,3 +25,6 @@ class Solution:
         ans += self.postorderTraversal(root.right)
         ans.append(root.val)
         return ans
+
+
+    
