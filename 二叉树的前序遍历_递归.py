@@ -25,3 +25,6 @@ class Solution:
         ans += self.preorderTraversal(root.left)
         ans += self.preorderTraversal(root.right)
         return ans
+
+    
+    
